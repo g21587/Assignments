@@ -1,6 +1,8 @@
 package assignments;
 
 public class Assignment11_Stock {
+	
+	//This is assignment 12 not 11. It is a naming mistake.
 
 	public static void main(String[] args) {
         int[] prices1 = {7, 1, 5, 3, 6, 4};
